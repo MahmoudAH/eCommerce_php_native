@@ -1,0 +1,61 @@
+.star {
+    font-size: 30px;
+    position: absolute;
+    right: 130px;
+    top: 140px;
+}
+
+.dropdown,
+.dropend,
+.dropstart,
+.dropup {
+    position: absolute;
+    right: 110px;
+}
+
+.dropdown-item:focus,
+.dropdown-item:hover {
+    color: #101113;
+    background-color: #3b81c7;
+}
+
+.navbar-nav .dropdown-menu {
+    position: static;
+    background-color: #70dede;
+}
+
+.bg-light {
+    background-color: #3b546d !important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #f8f9fa;
+    font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link {
+    color: #f8f9fa;
+}
+
+.navbar-light .navbar-brand {
+    color: #f8f9fa;
+    padding-right: 50px;
+}
+
+.categories .ordering .active {
+    color: green;
+}
+
+a {
+    color: #02050a;
+    text-decoration: none;
+}
+
+.dashboard .card-text {
+    font-size: 40px;
+}
+
+.toggle-info {
+    color: aqua;
+}
